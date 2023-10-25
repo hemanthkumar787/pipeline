@@ -1,0 +1,90 @@
+Date		Daily activity status
+17-Apr-23	Overview of SPI SW development between CAN and WI-FI module
+18-Apr-23	MCP2515 CAN Controller and ESP32 wifi module
+19-Apr-23	Gone through the codes of CAN read_Write,ESP_AP,ESP_STA
+20-Apr-23	Comparison of CAN over I2C and SPI,CAN frame format-ID,DLC,Data field
+21-Apr-23	CAN Controller,CAN transceiver,speed,data,Document AN220278
+22-Apr-23	weekoff
+23-Apr-23	weekoff
+24-Apr-23	Basics of C programming
+25-Apr-23	Advanced MS Excel Training
+26-Apr-23	C functions,Arrays,Pointers,structures and unions
+27-Apr-23	oops concepts
+28-Apr-23	practice basic programming
+29-Apr-23	weekoff
+30-Apr-23	weekoff
+1-May-23	Holiday
+2-May-23	Overview of PY-QT concepts
+3-May-23	gothrough the basic PY-QT tutorials 
+4-May-23	gothrough the basic PY-QT tutorials
+5-May-23	working on creating the projects
+6-May-23	weekoff
+7-May-23	weekoff
+8-May-23	creating the windows of QT(PUSH-Button, list menu) 
+9-May-23	creating the windows of QT(printing name, MAX & MIN the butoon)
+10-May-23	creating the windows of QT of PUSH-Button clicked or un clicked
+11-May-23	creating the windows of QT of basic programs
+12-May-23	Leave
+13-May-23	weekoff
+14-May-23	weekoff
+15-May-23	Bit fields,Bit handling and interrupts
+16-May-23	Micro controller embedded C programming
+17-May-23	Mastering in micro controller embedded driver development
+18-May-23	Learn about GPIO,SPI,I2C and USART and worked on ppt
+19-May-23	Learn about interrupts and exceptions
+20-May-23	weekoff
+21-May-23	weekoff
+22-May-23	Qt PPT prepared
+23-May-23	Master and slave communication program and tried to verify errors and run the codes
+24-May-23	SPI communication master and slave programs
+25-May-23	SPI communication  between master and slave using arduino board 
+26-May-23	Working on ppt and I2C protocol
+27-May-23	weekoff
+28-May-23	weekoff
+29-May-23	Transferring strings between master and slave via SPI
+30-May-23	Task-Master and slave code to configure interrupt GPIO function with pin mode,whenever there is an interrupt
+31-May-23	External interrupt configuration ,clock divider
+1-Jun-23	Master and slave code using SPDR register over MOSI and MISO
+2-Jun-23	Clock syncronization ,data buffer handling,interrupt handling,debugging and error checking
+3-Jun-23	weekoff
+4-Jun-23	weekoff
+5-Jun-23	Task-code for SPI communication between master and slave using external interrupt via arduino
+6-Jun-23	Task-Code for passing a string only once through master to slave, code for using for-loop in the logic by giving 1sec delay
+7-Jun-23	Training session on effeciency to effectiveness peak performance and innovation: transform ideas into solutions
+8-Jun-23	Training session on innovation and 
+9-Jun-23	Communication between slave to master via SPI using two arduino uno boards
+10-Jun-23	weekoff
+11-Jun-23	weekoff
+12-Jun-23	Task- two way communication between master and slave via SPI
+13-Jun-23	Task- I2C communication from master to slave using arduino IDE
+14-Jun-23	Task- I2C communication from slave to master using arduino IDE
+15-Jun-23	Task- Passing data or message from one arduino to another using two MCP2515 can controllers 
+16-Jun-23	Leave 
+17-Jun-23	weekoff
+18-Jun-23	weekoff
+19-Jun-23	Worked on SPI two way communication via Arduino 
+20-Jun-23	Worked on CAN and SPI two way communication via Arduino and MCP2515 
+21-Jun-23	Worked on I2C two way communication via Arduino uno  
+22-Jun-23	overview of Infotainment and applications and workking
+23-Jun-23	overview of CAN DataBase
+24-Jun-23	weekoff
+25-Jun-23	weekoff
+26-Jun-23	DBC of message and singnals and caluclation
+27-Jun-23	overview of canalizer 
+28-Jun-23	working on qt that adding img using the lable
+29-Jun-23 	working on resize the img on button press
+30-Jun-23	working on disply the img on button press
+1-July-23	weekoff
+2-July-23	weekoff
+3-July-23	Vector CANalyzer:Transmitting data by creating a interactive generator block
+4-July-23	Vector CANalyzer:Configure CAN UI with sinal monioring(Graphics, Trace,Data)
+5-July-23	Vector CANalyzer:Passing data by writing a CAPL code based on the database creaed
+6-July-23	Vector CANalyzer:Creating a panel through CAPL code using certain sysytem variables
+7-July-23	Vector CANalyzer:Creating a project and transmitting data by IG
+8-July-23	weekoff
+9-July-23	weekoff
+10-July-23	Leave
+11-July-23	Vector CANalyzer:Passing data with arduino code using arduino,mcp2515 and vector hardware
+12-July-23
+13-July-23
+https://docs.aws.amazon.com/polly/latest/dg/get-started-what-next.html
